@@ -22,7 +22,7 @@ It lets quickly search around www.deskmod.com site.
 
 %description -l pl
 Pozwala na szybkie poruszanie siê oraz przeszukiwanie portalu
-www.deskmod.com, na którym znajduj± siê tematy oraz skórki do ró¿nych
+www.deskmod.com, na którym znajduj± siê motywy oraz skórki do ró¿nych
 programów.
 
 %prep
