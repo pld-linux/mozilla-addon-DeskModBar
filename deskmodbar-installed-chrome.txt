@@ -1,0 +1,2 @@
+content,install,url,jar:resource:/chrome/deskmodbar.jar!/content/deskmodbar/
+locale,install,url,jar:resource:/chrome/deskmodbar.jar!/locale/en-US/deskmodbar/
