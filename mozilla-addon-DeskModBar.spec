@@ -7,6 +7,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
 Source0:	http://www.deskmod.com/mozillabar/%{_realname}.xpi
+# Source0-md5:	9c175c9fde253dfaaca887979e0dc8b7
 Source1:	%{_realname}-installed-chrome.txt
 URL:		http://www.deskmod.com/mozillabar/
 BuildRequires:	unzip
