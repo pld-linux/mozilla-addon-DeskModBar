@@ -3,7 +3,7 @@ Summary(pl):	Pozwala na szybkie poruszanie siê po portalu www.deskmod.com
 Name:		mozilla-addon-DeskModBar
 %define		_realname	deskmodbar
 Version:	1.0
-Release:	2
+Release:	3
 License:	GPL
 Group:		X11/Applications/Networking
 Source0:	http://www.deskmod.com/mozillabar/%{_realname}.xpi
