@@ -3,7 +3,7 @@ Summary(pl):	Pozwala na szybkie poruszanie siê po portalu www.deskmod.com
 Name:		mozilla-addon-DeskModBar
 %define		_realname	deskmodbar
 Version:	1.0
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Applications/Networking
 Source0:	http://www.deskmod.com/mozillabar/%{_realname}.xpi
@@ -16,7 +16,7 @@ Requires:	mozilla >= 1.0-7
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{_realname}-%{version}-root-%(id -u -n)
 
-%define         _chromedir      %{_libdir}/mozilla/chrome
+%define         _chromedir      %{_datadir}/mozilla/chrome
 
 %description
 It lets quickly search around www.deskmod.com site.
