@@ -1,5 +1,5 @@
-Summary:	It lets quickly search around www.deskmod.com site.
-Summary(pl):	Pozwala na szybkie poruszanie siê po portalu www.deskmod.com.
+Summary:	It lets quickly search around www.deskmod.com site
+Summary(pl):	Pozwala na szybkie poruszanie siê po portalu www.deskmod.com
 Name:		mozilla-addon-DeskModBar
 %define		_realname	deskmodbar
 Version:	1.0
