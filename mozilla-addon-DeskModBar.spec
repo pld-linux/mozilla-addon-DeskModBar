@@ -1,5 +1,5 @@
 Summary:	It lets quickly search around www.deskmod.com site
-Summary(pl):	Umo¿liwienie szybkiego poruszania siê po portalu www.deskmod.com
+Summary(pl.UTF-8):   UmoÅ¼liwienie szybkiego poruszania siÄ™ po portalu www.deskmod.com
 Name:		mozilla-addon-DeskModBar
 %define		_realname	deskmodbar
 Version:	1.0
@@ -22,10 +22,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 It lets quickly search around www.deskmod.com site.
 
-%description -l pl
-Pozwala na szybkie poruszanie siê oraz przeszukiwanie portalu
-www.deskmod.com, na którym znajduj± siê motywy oraz skórki do ró¿nych
-programów.
+%description -l pl.UTF-8
+Pozwala na szybkie poruszanie siÄ™ oraz przeszukiwanie portalu
+www.deskmod.com, na ktÃ³rym znajdujÄ… siÄ™ motywy oraz skÃ³rki do rÃ³Å¼nych
+programÃ³w.
 
 %prep
 
